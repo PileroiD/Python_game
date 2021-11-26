@@ -9,7 +9,6 @@ def password2(sumbol: str, lens: int):
         result = []
         for _ in range(lens):
             result.append(random.choice(list(sumbol)))
-        # print(''.join(result))
         result = ''.join(result)
         print(f'\n{result}\n')
         q = input('Again?[y/n]')

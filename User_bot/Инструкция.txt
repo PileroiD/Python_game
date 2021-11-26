@@ -1,4 +1,0 @@
-В cmd запускаем main.py
-В main.py весь код который можно поменять и запустить заново.
-Все примеры Юзер_ботов можно посмотреть и скопировать за ссылкой https://github.com/ColinTheShark/Pyrogram-Snippets/tree/master/Snippets
-или https://docs.pyrogram.org/start/examples/
